@@ -1,0 +1,23 @@
+_repo: Baartock_1087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roth, Lewis
+    gutenberg_agent_id: '534'
+    url: http://www.gutenberg.org/2009/agents/534
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1087'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Trolls -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+title: Baartock
+url: http://www.gutenberg.org/ebooks/1087
